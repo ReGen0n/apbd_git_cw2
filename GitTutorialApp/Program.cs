@@ -2,6 +2,8 @@
 
 double average = numbers.Average();
 int max = numbers.Max();
+int min = numbers.Min();
 
 Console.WriteLine("Average: " + average);
 Console.WriteLine("Max: " + max);
+Console.WriteLine("Min: " + min);
