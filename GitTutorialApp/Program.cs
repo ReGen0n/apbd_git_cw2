@@ -3,5 +3,5 @@
 double average = numbers.Average();
 int max = numbers.Max();
 
-Console.WriteLine("Average: " + average);
+Console.WriteLine("Average value: " + average);
 Console.WriteLine("Max: " + max);
