@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿int[] numbers = {2, 4, 6, 8};
 
-Console.WriteLine("Hello, World!");
+double average = numbers.Average();
+
+Console.WriteLine("Average:" + average);
